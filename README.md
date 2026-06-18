@@ -1,10 +1,15 @@
 # TidyBot++：开源全向移动操作机器人平台——从硬件设计到策略学习的完整方案
 
 > **GitHub 仓库**：[https://github.com/Robot-Nav/manipution_wheel](https://github.com/Robot-Nav/manipution_wheel)
+
 > **原始项目**：[https://github.com/jimmyyhwu/tidybot2/tree/main](https://github.com/jimmyyhwu/tidybot2/tree/main)
+
 > **项目主页**：[https://tidybot2.github.io/](https://tidybot2.github.io/)
+
 > **论文**：[arXiv:2412.10447](https://arxiv.org/abs/2412.10447)
+
 > **发表会议**：CoRL 2024（Conference on Robot Learning）
+
 > **作者**：Jimmy Wu¹'², William Chong², Robert Holmberg³, Aaditya Prasad², Yihuai Gao², Oussama Khatib², Shuran Song², Szymon Rusinkiewicz¹, Jeannette Bohg²（¹普林斯顿大学 ²斯坦福大学 ³Dexterity）
 
 ---
