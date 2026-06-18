@@ -137,7 +137,7 @@ $$C_{2i,3} = \frac{h_x^i \sin(q_i^s) - h_y^i \cos(q_i^s)}{r} + \frac{b_y(h_x^i \
 
 操作空间速度通过伪逆从关节速度恢复：
 
-$$\dot{\mathbf{x}}_{local} = \mathbf{C}_p^{\#} \cdot \dot{\mathbf{q}}$$
+$$\dot{\mathbf{x}}_{local} = \mathbf{C}_{p}^{local} \cdot \dot{\mathbf{q}}$$
 
 其中 $\mathbf{C}_p^{\#} = (\mathbf{C}_p^T \mathbf{C}_p)^{-1} \mathbf{C}_p^T \mathbf{C}_q^{-1}$
 
